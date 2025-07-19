@@ -1,0 +1,8 @@
+nohup: ignoring input
+
+> almas-dimas-frontend@0.0.0 preview
+> vite preview --port 3005 --host 0.0.0.0
+
+Port 3005 is in use, trying another one...
+  ➜  Local:   http://localhost:3006/
+  ➜  Network: http://169.254.0.21:3006/
